@@ -1,3 +1,10 @@
+/**
+    A letter "B" with a 3-D effect using changing gradient and
+    RGB values
+    tzuhsuan.yang 26/08/2012
+    a0071302@nus.edu.sg
+*/
+
 size(400, 400);
   smooth();
   noFill();
